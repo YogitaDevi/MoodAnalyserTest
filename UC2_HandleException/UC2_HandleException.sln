@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UC2_HandleException", "UC2_HandleException.csproj", "{5DF6AEB1-0001-4910-B727-C0E7D45FDC17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UC2HandlingTestProject", "..\UC2HandlingTestProject\UC2HandlingTestProject.csproj", "{1DFD1C23-3DAC-453E-9E09-C38782B143D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DF6AEB1-0001-4910-B727-C0E7D45FDC17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DF6AEB1-0001-4910-B727-C0E7D45FDC17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DF6AEB1-0001-4910-B727-C0E7D45FDC17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DF6AEB1-0001-4910-B727-C0E7D45FDC17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DFD1C23-3DAC-453E-9E09-C38782B143D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DFD1C23-3DAC-453E-9E09-C38782B143D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DFD1C23-3DAC-453E-9E09-C38782B143D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DFD1C23-3DAC-453E-9E09-C38782B143D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D35874A0-3E0C-43B9-8560-28F982A97EE8}
+	EndGlobalSection
+EndGlobal
